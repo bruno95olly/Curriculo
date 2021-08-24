@@ -1,0 +1,162 @@
+body{
+    background-color: #e4e4e4;
+}
+#caixaPrincipal {
+    background-color: white;
+    width: 1000px;
+    height: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px; 
+    box-shadow: -5px 5px 10px #c1c1c1;
+}
+#caixa1 {
+    width: 1000px;
+    height: 150px;
+    margin-bottom: 30px;
+    border-bottom: solid 1px #b1b1b1;
+    
+}
+
+#dados{
+    width: 705px;
+    height: 150px;
+    background-color: white; 
+    float: left;
+    margin-bottom: 0px;
+    
+}
+#nomeSobrenome {
+    width: 690px;
+    height: 150px;
+    margin-bottom: 0px;
+}
+
+#textoNome{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 3.6em;
+    margin-left: 60px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    color: #262626;
+    
+}
+
+#prof {
+    font-family: sans-serif;
+    padding-left: 62px;
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #707070;
+    margin-bottom: 0px;
+}
+#contatos{
+    width: 290px;
+    height:110px;
+    
+    float: left;
+    margin-top: 35px;
+}
+.conts{
+    margin: 0px;
+    font-family: sans-serif;
+    font-size: 1.0em;
+    margin-top: 3px;
+    
+}
+#caixa2 {
+    width: 1000px;
+    height: 750px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+#caixaMaior{
+    margin-top: 0px;
+    width: 640px;
+    height: 840px;
+    background-color: white;
+    clear: both;
+    float: left;
+    margin-left: 62px;
+}
+#caixaMenor{
+    width: 250px;
+    height:750px;
+    float: left;
+    padding-left: 20px;
+}
+.titulos{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: #2079C7;
+    margin-bottom: 40px;
+    font-size: 1.3em;
+}
+.textos{
+    font-size: 1.1em;
+    color: #626262;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    font-family: sans-serif;
+    padding-bottom: 15px;
+    border-bottom: solid 1px #b1b1b1;
+}
+.formacao{
+    font-size: 1.1em;
+    margin-right: 100px;
+   
+}
+.date{
+    color: #626262;
+    font-family: sans-serif;
+    font-size: 0.9em;
+}
+.lista{
+    width: 500px;
+    height: 110px;
+    margin-bottom: 35px;
+    padding-bottom: 20px;
+    border-bottom: solid 1px #b1b1b1;
+}
+.itens{
+    list-style: disc;
+    font-size: 1.1em;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #424242;
+}
+.textos2{
+    font-size: 1em;
+    color: #626262;
+    margin-bottom: 5px;
+    font-family: sans-serif;   
+}
+#alin{
+    margin-bottom: 50px;
+}
+#txt{
+    font-size: 1.1em;
+    color: #626262;
+    margin-right: 100px;
+    font-family: sans-serif;
+}
+#caixa3{
+    clear: both;
+    width: 888px;
+    height: 70px;
+    margin-left: 62px;
+    border-bottom: solid 6px #2079C7;
+}
+.foto{
+    width: 40px;
+    height: 40px;
+    opacity: 0.8;
+}
+.rs{
+    width: 40px;
+    height: 40px;
+    float: right;
+    margin-right: 8px;
+    margin-top: 20px;
+}
