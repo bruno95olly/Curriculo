@@ -142,9 +142,10 @@ body{
     font-family: sans-serif;
 }
 #caixa3{
+    padding-top: 20px;
     clear: both;
     width: 888px;
-    height: 70px;
+    height: 64px;
     margin-left: 62px;
     border-bottom: solid 6px #2079C7;
 }
